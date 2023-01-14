@@ -1,0 +1,5 @@
+400: Bad Request
+401: unauthorized access
+403: forbidden
+404: Not found
+429: Too many requests
